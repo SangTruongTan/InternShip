@@ -1,0 +1,32 @@
+\babel@toc {english}{}
+\babel@toc {english}{}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1.1}{\ignorespaces Use case diagram\relax }}{2}{figure.caption.5}%
+\contentsline {figure}{\numberline {1.2}{\ignorespaces \it System Architecture\relax }}{3}{figure.caption.7}%
+\babel@toc {english}{}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces \it System block diagram\relax }}{4}{figure.caption.8}%
+\contentsline {figure}{\numberline {2.2}{\ignorespaces \it Dataflow Structure\relax }}{5}{figure.caption.9}%
+\contentsline {figure}{\numberline {2.3}{\ignorespaces \it System state diagrams\relax }}{6}{figure.caption.10}%
+\contentsline {figure}{\numberline {2.4}{\ignorespaces \it Board NUCLEO STM32F4 F466RE\relax }}{6}{figure.caption.11}%
+\contentsline {figure}{\numberline {2.5}{\ignorespaces \it Camera OV7670 without FIFO\relax }}{7}{figure.caption.12}%
+\contentsline {figure}{\numberline {2.6}{\ignorespaces \it UART to MicroUSB CP2102\relax }}{8}{figure.caption.13}%
+\contentsline {figure}{\numberline {2.7}{\ignorespaces \it Functional block diagram\relax }}{9}{figure.caption.14}%
+\contentsline {figure}{\numberline {2.8}{\ignorespaces \it Hardware connection\relax }}{10}{figure.caption.15}%
+\contentsline {figure}{\numberline {2.9}{\ignorespaces \it MCU pinout\relax }}{10}{figure.caption.16}%
+\contentsline {figure}{\numberline {2.10}{\ignorespaces \it System Architecture\relax }}{11}{figure.caption.17}%
+\contentsline {figure}{\numberline {2.11}{\ignorespaces \it Schematic\relax }}{11}{figure.caption.18}%
+\contentsline {figure}{\numberline {2.12}{\ignorespaces \it Main clock tree of the CPU\relax }}{12}{figure.caption.19}%
+\contentsline {figure}{\numberline {2.13}{\ignorespaces \it Clock source for camera module using MCO\relax }}{12}{figure.caption.20}%
+\contentsline {figure}{\numberline {2.14}{\ignorespaces \it Serial camera control bus connection\relax }}{13}{figure.caption.21}%
+\contentsline {figure}{\numberline {2.15}{\ignorespaces \it Serial camera control bus waveform\relax }}{13}{figure.caption.22}%
+\contentsline {figure}{\numberline {2.16}{\ignorespaces \it Display data bus waveform\relax }}{14}{figure.caption.23}%
+\contentsline {figure}{\numberline {2.17}{\ignorespaces \it One bytes data transfer\relax }}{14}{figure.caption.24}%
+\contentsline {figure}{\numberline {2.18}{\ignorespaces \it Memory management\relax }}{15}{figure.caption.26}%
+\contentsline {figure}{\numberline {2.19}{\ignorespaces \it RGB565 output waveform\relax }}{15}{figure.caption.28}%
+\contentsline {figure}{\numberline {2.20}{\ignorespaces \it YCbCr colour format arrange in the memory cell\relax }}{16}{figure.caption.29}%
+\contentsline {figure}{\numberline {2.21}{\ignorespaces \it Software architecture\relax }}{16}{figure.caption.30}%
+\contentsline {figure}{\numberline {2.22}{\ignorespaces \it Capture and transmission timing\relax }}{17}{figure.caption.32}%
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }

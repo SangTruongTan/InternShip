@@ -1,0 +1,49 @@
+\documentclass[D:/Latex/Internship/Report/Latex/Report.tex]{subfiles}
+\usepackage[utf8]{inputenc}
+\PassOptionsToPackage{english, british}{babel}
+\usepackage[english, british]{babel}
+\usepackage{graphicx}
+\usepackage{setspace}		%use \doublespacing
+\usepackage{hyperref}
+\graphicspath{{Figure/}}
+\newcommand\NoIndent[1]{%
+  \par\vbox{\parbox[t]{\linewidth}{#1}}%
+}
+
+\begin{document}
+  \chapter{Design Issues}
+  \label{chap:Design Issues}
+    \section{Constraint issues}
+    \label{sec:Constraint issues}
+
+
+    \section{Function issues}
+    \label{sec:Function issues}
+      \begin{itemize}
+        \item Supported jpeg format files.
+        \item Capture photo or streaming video.
+        \item The serial output data is a common connection.
+      \end{itemize}
+
+
+    \section{Realtime issues}
+    \label{sec:Realtime issues}
+      \begin{itemize}
+        \item The system is soft-realtime, but the latency allowed must be smaller than 500ms.
+      \end{itemize}
+
+    \section{Concurrent issues}  
+    \label{sec:Concurrent issues}
+      \begin{itemize}
+        \item The system can be active in any environment, but not too hot and humid, e.g the drone system.
+        \item Muti-function: The system can capture images, processing and transmit them at the same time.
+        \item Because of using Uart output connection, the system can easily connect to another system. 
+      \end{itemize}
+
+    \section{Reactive issues}
+    \label{sec:Reactive issues}
+      \begin{itemize}
+        \item Discontinuous interaction: Power on demand.
+        \item Response to external non-periodic events: Can start or stop capture images at any time.
+      \end{itemize}
+\end{document}

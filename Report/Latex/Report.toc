@@ -1,0 +1,37 @@
+\babel@toc {english}{}
+\babel@toc {english}{}
+\contentsline {chapter}{\numberline {1}System specifications}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Product requirements}{1}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Design specification}{3}{section.1.2}%
+\babel@toc {english}{}
+\contentsline {chapter}{\numberline {2}System Design}{4}{chapter.2}%
+\contentsline {section}{\numberline {2.1}System behavior}{4}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Hardware description}{6}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Board Nucleo STM32}{6}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}Camera OV7670}{7}{subsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.2.3}Uart to MicroUSB CP2102}{8}{subsection.2.2.3}%
+\contentsline {section}{\numberline {2.3}Design Hardware}{9}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}OV7670 block and connection}{9}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}Hardware connection}{10}{subsection.2.3.2}%
+\contentsline {subsection}{\numberline {2.3.3}MCU pinout}{10}{subsection.2.3.3}%
+\contentsline {subsection}{\numberline {2.3.4}System Architecture}{11}{subsection.2.3.4}%
+\contentsline {subsection}{\numberline {2.3.5}Schematic}{11}{subsection.2.3.5}%
+\contentsline {section}{\numberline {2.4}The clock configuration}{12}{section.2.4}%
+\contentsline {subsection}{\numberline {2.4.1}Main clock tree}{12}{subsection.2.4.1}%
+\contentsline {subsection}{\numberline {2.4.2}The clock source for the camera module}{12}{subsection.2.4.2}%
+\contentsline {section}{\numberline {2.5}Software}{13}{section.2.5}%
+\contentsline {subsection}{\numberline {2.5.1}Interface}{13}{subsection.2.5.1}%
+\contentsline {subsection}{\numberline {2.5.2}Memory management}{14}{subsection.2.5.2}%
+\contentsline {subsubsection}{MicroController memory organized}{14}{section*.25}%
+\contentsline {subsubsection}{RGB565 and YCrCb colour arrangement}{15}{section*.27}%
+\contentsline {subsection}{\numberline {2.5.3}Software achitecture}{16}{subsection.2.5.3}%
+\contentsline {subsection}{\numberline {2.5.4}Software implementation}{17}{subsection.2.5.4}%
+\contentsline {subsubsection}{Capture and transmission timing}{17}{section*.31}%
+\contentsline {chapter}{\numberline {3}Design Issues}{18}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Constraint issues}{18}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Function issues}{18}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Realtime issues}{18}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Concurrent issues}{18}{section.3.4}%
+\contentsline {section}{\numberline {3.5}Reactive issues}{18}{section.3.5}%
+\contentsline {chapter}{\numberline {4}Conclusion and Plan}{19}{chapter.4}%
+\contentsline {chapter}{\numberline {5}References}{20}{chapter.5}%

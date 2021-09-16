@@ -1,0 +1,19 @@
+\documentclass[D:/Latex/Internship/Report/Latex/Report.tex]{subfiles}
+\usepackage[utf8]{inputenc}
+\PassOptionsToPackage{english, british}{babel}
+\usepackage[english, british]{babel}
+\usepackage{graphicx}
+\usepackage{setspace}		%use \doublespacing
+\usepackage{hyperref}
+\graphicspath{{Figure/}}
+\newcommand\NoIndent[1]{%
+  \par\vbox{\parbox[t]{\linewidth}{#1}}%
+}
+
+\begin{document}
+  \chapter{References}
+  Sang Truong Tan \textit{et. al. } \cite{OVCam, Stm32F446datasheet, Stm32f4usermanual}
+  \bibliographystyle{IEEEtran}
+  \bibliography{refs}
+
+\end{document}

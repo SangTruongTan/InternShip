@@ -1,0 +1,57 @@
+\documentclass[12pt, a4paper, twoside]{extreport}
+\usepackage[utf8]{vietnam}
+\usepackage[left = 2.5cm, right = 2.0cm, top = 2.0cm, bottom = 2.0cm]{geometry}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{enumerate}
+\usepackage{hyperref}
+\hypersetup{
+  colorlinks=true,
+  linkcolor=blue,
+  urlcolor=cyan,
+}
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\graphicspath{{Chapter1/Figure/}, {Chapter1_2/Figure/}}
+%\usepackage{minitoc}
+\usepackage{subfiles}
+\usepackage{setspace}		%doublespacing command
+\usepackage[english]{babel}
+\usepackage{svg}
+\usepackage{tikz}
+\usetikzlibrary{calc}
+
+\usepackage{pgfplots}
+\pgfplotsset{compat=1.18}
+\usepackage{mathrsfs}
+\usetikzlibrary{arrows}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{document}
+
+%%Cover Page
+	\pagestyle{empty}
+	\subfile{../Latex/Intro/Intro_en.tex}
+
+%%Introduction
+	\pagestyle{plain}
+	\subfile{../Latex/Introduction/Introduction.tex}	
+%%Table of Content, list of figure and list of table
+	\subfile{../Latex/Table/Table.tex}
+
+%%Chapter 1 Design Specification
+	\subfile{../Latex/Chapter1/Chapter1.tex} 
+	
+%%Chapter 1_2	Hardware Achitecture
+	\subfile{../Latex/Chapter1_2/Chapter1_2.tex}
+
+%%Chapter 3 Design issues
+	\subfile{../Latex/Chapter3/Chapter3.tex}
+
+%%Chapter 4 Conclusion
+	\subfile{../Latex/Chapter4/Chapter4.tex}
+
+%%Chapter references
+	\subfile{../Latex/ChapterRef/ChapterRef.tex}
+\end{document}{}
