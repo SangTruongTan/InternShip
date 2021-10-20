@@ -34,4 +34,6 @@
 \contentsline {section}{\numberline {3.4}Concurrent issues}{18}{section.3.4}%
 \contentsline {section}{\numberline {3.5}Reactive issues}{18}{section.3.5}%
 \contentsline {chapter}{\numberline {4}Conclusion and Plan}{19}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Conclusion}{19}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Plan}{19}{section.4.2}%
 \contentsline {chapter}{\numberline {5}References}{20}{chapter.5}%

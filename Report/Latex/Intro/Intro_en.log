@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.7) (preloaded format=pdflatex 2021.7.20)  10 SEP 2021 20:09
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.7) (preloaded format=pdflatex 2021.7.20)  9 OCT 2021 21:15
 entering extended mode
 **D:/Latex/Internship/Report/Latex/Intro/Intro_en.tex
 (D:/Latex/Internship/Report/Latex/Intro/Intro_en.tex
@@ -458,6 +458,8 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip52
 )
+Package hyperref Info: Option `colorlinks' set `true' on input line 13.
+
 (C:\Users\sangt\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
 Package: graphicx 2020/12/05 v1.2c Enhanced LaTeX Graphics (DPC,SPQR)
 
@@ -1071,7 +1073,7 @@ LaTeX Font Info:    ... okay on input line 7.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring OFF on input line 7.
+Package hyperref Info: Link coloring ON on input line 7.
 (C:\Users\sangt\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
 
@@ -1133,10 +1135,10 @@ Package rerunfilecheck Info: File `Intro_en.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 32774 strings out of 478870
- 760338 string characters out of 2848836
- 1213879 words of memory out of 3000000
- 50123 multiletter control sequences out of 15000+600000
+ 32776 strings out of 478870
+ 760371 string characters out of 2848836
+ 1213868 words of memory out of 3000000
+ 50125 multiletter control sequences out of 15000+600000
  410411 words of font info for 35 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  114i,7n,111p,814b,585s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1145,7 +1147,7 @@ b><C:/Users/sangt/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnr12.pfb
 ><C:/Users/sangt/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnr17.pfb>
 <C:/Users/sangt/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnti12.pfb>
 
-Output written on Intro_en.pdf (1 page, 57541 bytes).
+Output written on Intro_en.pdf (1 page, 52373 bytes).
 PDF statistics:
  37 PDF objects out of 1000 (max. 8388607)
  2 named destinations out of 1000 (max. 500000)
